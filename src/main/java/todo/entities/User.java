@@ -9,6 +9,9 @@ public class User {
     private String password;
     private boolean active;
     private List<Card> cardList;
+    private String name;
+    private String lastname;
+    private String email;
     
     User(){}
     

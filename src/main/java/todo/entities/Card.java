@@ -38,7 +38,7 @@ public class Card {
 		this.category = new Category(_id, _descripcion);
 	}
 	
-	//TODO getItem
+	//TODO getCard
 	//TODO DBIntegration
 	//TODO UserIntegration
 	
