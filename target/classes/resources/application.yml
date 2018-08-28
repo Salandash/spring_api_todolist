@@ -1,0 +1,12 @@
+spring:
+  datasource: 
+    driverClassName: com.mysql,,jdbc.Driver
+    url: jdbv:mysql://localhost:33606/db_todolist
+    username: admin
+    password: pitibole03
+  jpa:
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: true
+    database: db_todolist
+      
